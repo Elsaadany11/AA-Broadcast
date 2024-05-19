@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Me - [Your Name]</title>
+    <style>
+        /* Add common styles here */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header, footer {
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            padding: 1em 0;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            background-color: #333;
+        }
+        nav a {
+            color: white;
+            padding: 14px 20px;
+            text-decoration: none;
+        }
+        nav a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+        .content {
+            max-width: 900px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>About Me</h1>
+    </header>
+    <nav>
+        <a href="index.html">About Me</a>
+        <a href="ip-schema.html">IP Schema</a>
+        <a href="data.html">Data</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+    <section class="content">
+        <h2>About Me</h2>
+        <p>Hi, I'm [Your Name], a Broadcast Engineer with expertise in designing and maintaining broadcast systems and IP networks. I have a passion for technology and a keen eye for detail, ensuring high-quality broadcast experiences.</p>
+    </section>
+    <footer>
+        <p>&copy; 2024 [Your Name]. All rights reserved.</p>
+    </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IP Schema - [Your Name]</title>
+    <style>
+        /* Add common styles here */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header, footer {
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            padding: 1em 0;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            background-color: #333;
+        }
+        nav a {
+            color: white;
+            padding: 14px 20px;
+            text-decoration: none;
+        }
+        nav a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+        .content {
+            max-width: 900px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>IP Schema</h1>
+    </header>
+    <nav>
+        <a href="index.html">About Me</a>
+        <a href="ip-schema.html">IP Schema</a>
+        <a href="data.html">Data</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+    <section class="content">
+        <h2>IP Schema</h2>
+        <p>Below is an example of an IP schema used in broadcast engineering:</p>
+        <img src="ip-schema-diagram.png" alt="IP Schema Diagram" style="width:100%;max-width:600px;">
+    </section>
+    <footer>
+        <p>&copy; 2024 [Your Name]. All rights reserved.</p>
+    </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data - [Your Name]</title>
+    <style>
+        /* Add common styles here */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header, footer {
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            padding: 1em 0;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            background-color: #333;
+        }
+        nav a {
+            color: white;
+            padding: 14px 20px;
+            text-decoration: none;
+        }
+        nav a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+        .content {
+            max-width: 900px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            margin-top: 20px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+        }
+        table, th, td {
+            border: 1px solid #ddd;
+        }
+        th, td {
+            padding: 12px;
+            text-align: left;
+        }
+        th {
+            background-color: #4CAF50;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Data</h1>
+    </header>
+    <nav>
+        <a href="index.html">About Me</a>
+        <a href="ip-schema.html">IP Schema</a>
+        <a href="data.html">Data</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+    <section class="content">
+        <h2>Data</h2>
+        <p>Here is a table representing some key data in an Excel-like format:</p>
+        <table>
+            <tr>
+                <th>Parameter</th>
+                <th>Value</th>
+                <th>Description</th>
+            </tr>
+            <tr>
+                <td>IP Address</td>
+                <td>192.168.1.1</td>
+                <td>Main server IP</td>
+            </tr>
+            <tr>
+                <td>Subnet Mask</td>
+                <td>255.255.255.0</td>
+                <td>Default subnet mask</td>
+            </tr>
+            <tr>
+                <td>Gateway</td>
+                <td>192.168.1.254</td>
+                <td>Network gateway</td>
+            </tr>
+            <tr>
+                <td>DNS Server</td>
+                <td>8.8.8.8</td>
+                <td>Primary DNS server</td>
+            </tr>
+        </table>
+    </section>
+    <footer>
+        <p>&copy; 2024 [Your Name]. All rights reserved.</p>
+    </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact - [Your Name]</title>
+    <style>
+        /* Add common styles here */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header, footer {
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            padding: 1em 0;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            background-color: #333;
+        }
+        nav a {
+            color: white;
+            padding: 14px 20px;
+            text-decoration: none;
+        }
+        nav a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+        .content {
+            max-width: 900px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Contact</h1>
+    </header>
+    <nav>
+        <a href="index.html">About Me</a>
+        <a href="ip-schema.html">IP Schema</a>
+        <a href="data.html">Data</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+    <section class="content">
+        <h2>Contact</h2>
+        <p>You can reach me at:</p>
+        <p>Email: <a href="mailto:yourname@example.com">yourname@example.com</a></p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/yourprofile">https://www.linkedin.com/in/yourprofile</a></p>
+    </section>
+    <footer>
+        <p>&copy; 2024 [Your Name]. All rights reserved.</p>
+    </footer>
+</body>
+</html>
